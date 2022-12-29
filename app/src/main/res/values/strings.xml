@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ZmMonitoring</string>
+
+    <string name="settings_add_remove_button_key">add_remove_preference</string>
+    <string name="settings_ssh_gateway_host_prefix">ssh_gateway_host</string>
+    <string name="settings_ssh_gateway_host_title">host %1$d</string>
+    <string name="settings_ssh_gateway_key_prefix">ssh_gateway_key</string>
+    <string name="settings_ssh_gateway_key_title">host %1$d private key</string>
+    <string name="settings_ssh_gateways_category_key">ssh_gateways</string>
+    <string name="settings_ssh_gateways_category_title">Ssh gateway</string>
+    <string name="settings_zm_host_url_key">zm_host_url</string>
+    <string name="settings_zm_host_url_title">host url</string>
+    <string name="settings_zoneminder_host_key">zoneminder_host</string>
+    <string name="settings_zoneminder_host_title">Zoneminder settings</string>
+
+    <string name="connectionAlive">alive</string>
+    <string name="connectionDisconnected">interrupted</string>
+    <string name="connectionFailure">failure</string>
+    <string name="connectionNotInitialized">not initialized</string>
+    <string name="connectionStateLabel">Connection</string>
+    <string name="connectionSuccessful">successful</string>
+    <string name="monitorCurrentStateLabel">State</string>
+    <string name="montorApplyStateButton">Apply</string>
+
+</resources>
